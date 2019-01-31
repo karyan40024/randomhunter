@@ -1,4 +1,4 @@
-[![Producthunt](https://learningbyshipping.files.wordpress.com/2014/10/product-hunt-glasshole-kitty-by-jess3.png?w=84)](https://www.producthunt.com/) You can get extension from [chrome web store](https://chrome.google.com/webstore/detail/randomhunter/elmnlijmcoenbjnliigjlkjhadnhglbm) ![Logo](https://i.imgur.com/T4b8xJw.png) 
+[![Producthunt](https://learningbyshipping.files.wordpress.com/2014/10/product-hunt-glasshole-kitty-by-jess3.png?w=84)](https://www.producthunt.com/) Extension is available for both [Google Chrome](https://chrome.google.com/webstore/detail/randomhunter/elmnlijmcoenbjnliigjlkjhadnhglbm) and [Mozilla Firefox](https://addons.mozilla.org/en-US/firefox/addon/randomhunter) ![Logo](https://i.imgur.com/T4b8xJw.png) 
 
 
 ### Demo
