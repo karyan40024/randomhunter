@@ -1,0 +1,10 @@
+if(chrome){
+	chrome.browserAction.onClicked.addListener(function(){
+		chrome.tabs.create({'url':"chrome://newtab"})	
+	});
+}
+else{
+	browser.browserAction.onClicked.addListener(function(){
+		browser.tabs.create({'url':"about:blank"})	
+	});
+}
