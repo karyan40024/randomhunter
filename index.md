@@ -1,8 +1,4 @@
-# Randomhunter for Producthunt
- 
-### Randomhunter is an chrome extension which allows you to get random products in every new tab.
-
-![Logo](https://i.imgur.com/T4b8xJw.png) You can get it from [chrome web store](https://chrome.google.com/webstore/detail/randomhunter/elmnlijmcoenbjnliigjlkjhadnhglbm)
+![Logo](https://i.imgur.com/T4b8xJw.png) You can get extension from [chrome web store](https://chrome.google.com/webstore/detail/randomhunter/elmnlijmcoenbjnliigjlkjhadnhglbm)
 
 ### Demo
 ![Demo](https://i.imgur.com/v4Q0VkE.gif)
