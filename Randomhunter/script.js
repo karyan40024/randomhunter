@@ -16,11 +16,11 @@ xhr.onreadystatechange = function() {
     // JSON.parse does not evaluate the attacker's scripts.
     var resp = JSON.parse(xhr.responseText);
     var postIndex = Math.floor(Math.random() * resp.posts.length) + 0;
-    document.getElementById("product-name").innerHTML = resp.posts[postIndex].name;
+    document.getElementById("product-name").textContent = resp.posts[postIndex].name;
     document.getElementById("product-img").src = resp.posts[postIndex].thumbnail.image_url;
-    document.getElementById("product-desc").innerHTML = resp.posts[postIndex].tagline;
-    document.getElementById("product-votes").innerHTML = "Votes: " + resp.posts[postIndex].votes_count;
-    document.getElementById("product-date").innerHTML = resp.posts[postIndex].day;
+    document.getElementById("product-desc").textContent = resp.posts[postIndex].tagline;
+    document.getElementById("product-votes").textContent = "Votes: " + resp.posts[postIndex].votes_count;
+    document.getElementById("product-date").textContent = resp.posts[postIndex].day;
     document.getElementById("product-url").href = resp.posts[postIndex].redirect_url;
     document.getElementById("producthunt-url").href = resp.posts[postIndex].discussion_url;
 
